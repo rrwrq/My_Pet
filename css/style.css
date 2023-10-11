@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-size: 18px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+p{
+    font-size: 14px;
+}
+
+nav{
+    background-color: lightgray;
+}
+
+.wrapper{
+    height: 500px;
+    background-color: beige;
+}
+
+.left{
+    width: 29%;
+    height: 100%;
+    background-color: aqua;
+    float: left;
+}
+
+.right{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(255, 196, 118);
+    float: right;
+}
+
+.navItem{
+    background-color: rgb(104, 245, 151);
+    display: inline-block;
+    padding: 20px;
+    width: px;
+    text-align: center;
+}
+
+.profile{
+    background-color: rgb(82, 66, 46);
+    height: 110px;
+    text-align: center;
+    padding: 30px;
+}
+
+.profile p{
+    margin-top: 8px;
+}
+
+.stats{
+    background-color: rgb(200, 141, 254);
+    height: 70%;
+    padding: 20px;
+}
+
+.profile img{
+    width: 80px;
+    border-radius: 50%;
+}
+
+.stats h3{
+    margin-top: 0;
+}
+
+
+
+.stats ul{
+    list-style-type: none;
+    padding-left: 0;
+    line-height: px;
+
+}
+
+.hero{
+    height: 240px;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.hero img{
+    width: 100px;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.gallery{
+    height: 180px;
+    background-color: brown;
+    margin: 20px;
+}
+
+.gallery img{
+    width: 30%;
+    text-align: center;
+    margin: 10px;
+}
